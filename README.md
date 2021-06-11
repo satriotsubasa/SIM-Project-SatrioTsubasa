@@ -1,4 +1,4 @@
-# Balen Project SatrioTsubasa
+# SIM Project SatrioTsubasa
 
 Technology :
 1. Arduino UNO
@@ -9,14 +9,14 @@ The Build:
 1. Ability to connect to the GSM Network XL
 2. Display GPS and GSM Signal Strength
 3. Display GPS Location coordinates
-4. Establish a communication with Balen Server
+4. Establish a communication with Server
 5. Transmit data to the server
 6. Display data in a dashboard
 
 -----------------------------------------------------------------------------------------------------------------------------
 Addtional Challange on Part 3:
 1. Install Docker on Ubuntu Server
-2. Build Server with Docker Container on Ubuntu Balen Server using Python
+2. Build Server with Docker Container on Ubuntu Server using Python
 
 My Addtional Creation:
 1. Create UI with Visual Studio C# (.NET Framework)
@@ -56,11 +56,11 @@ PART 2 - GSM Connectivity
   
 -------------------------------------------------------------------------------------------------------------------------------
 PART 3 - Putting All Together to Server
-  Now that GPS and GSM are connected, The task is to perform POST to Balen server.
+  Now that GPS and GSM are connected, The task is to perform POST to server.
   
   Addtional Challange on Part 3:
-  1. Install Docker on Ubuntu Balen Server
-  2. Build Server with Docker Container on Ubuntu Balen Server using Python
+  1. Install Docker on Ubuntu Server
+  2. Build Server with Docker Container on Ubuntu Server using Python
 
   Task:
     1. Perform GET and POST all data from part 2 and part 1 to the created server
