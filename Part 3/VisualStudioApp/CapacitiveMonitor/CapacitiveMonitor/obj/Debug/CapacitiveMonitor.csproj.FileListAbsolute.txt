@@ -1,0 +1,35 @@
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\CapacitiveMonitor.exe.config
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\CapacitiveMonitor.exe
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\CapacitiveMonitor.pdb
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csprojResolveAssemblyReference.cache
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.Form1.resources
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.Properties.Resources.resources
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csproj.GenerateResource.Cache
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.exe
+E:\~KULIAH\ITS\Semester 2\Sensor\Capacitive Project\TestSerial\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.pdb
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csprojAssemblyReference.cache
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.Form1.resources
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.Properties.Resources.resources
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csproj.GenerateResource.cache
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csproj.CoreCompileInputs.cache
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.exe
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.pdb
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\CapacitiveMonitor.exe.config
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\CapacitiveMonitor.exe
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\CapacitiveMonitor.pdb
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\~KULIAH\Bootcamp\Part 1\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csproj.CopyComplete
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\CapacitiveMonitor.exe.config
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\CapacitiveMonitor.exe
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\CapacitiveMonitor.pdb
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csprojAssemblyReference.cache
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.Properties.Resources.resources
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csproj.GenerateResource.cache
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csproj.CoreCompileInputs.cache
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.csproj.CopyComplete
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.exe
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.pdb
+D:\~KULIAH\Bootcamp\Part 2\CapacitiveMonitor\CapacitiveMonitor\CapacitiveMonitor\obj\Debug\CapacitiveMonitor.Form1.resources
